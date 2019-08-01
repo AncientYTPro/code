@@ -1,6 +1,6 @@
 token=NTQwMjAwODQyNjE2MTExMTA0.XUNZbw.0Rb37YUsXQb6B6zrBMYEGv-Zg3g
 owner=533374450507448321 
 prefix=$
-game=!help |ET_Ancient|server!
+game=$help |ET_Ancient|server!
 stayinchannel=true
 songinstatus=false
